@@ -17,8 +17,8 @@ Exploring ways to make digital security more accessible | Brainstorming creative
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="https://github.com/0xwav"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/raghad-mohammad-27a51423a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/raghadmohsen"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/raghad-mohsen-27a51423a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	
 </p>
 
